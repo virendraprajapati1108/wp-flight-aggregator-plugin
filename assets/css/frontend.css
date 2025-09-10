@@ -1,0 +1,20 @@
+.wfa-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 24px;
+    border: 1px solid #ddd;
+}
+
+table td,
+th {
+    border: 1px solid #ddd !important;
+    text-align: center !important;
+    padding: 4px !important;
+    border-width: 1px !important;
+}
+
+.wfa-notice {
+    color: green;
+    margin: 12px 24px;
+    font-weight: 700;
+}

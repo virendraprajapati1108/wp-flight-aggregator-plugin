@@ -15,6 +15,7 @@ define('WFA_PLUGIN_URL', plugin_dir_url(__FILE__));
 require_once WFA_PLUGIN_DIR . 'includes/helpers.php';
 require_once WFA_PLUGIN_DIR . 'includes/class-shortcode.php';
 require_once WFA_PLUGIN_DIR . 'includes/class-bookings.php';
+require_once WFA_PLUGIN_DIR . 'includes/class-frontend.php';
 require_once WFA_PLUGIN_DIR . 'includes/class-admin.php';
 require_once WFA_PLUGIN_DIR . 'includes/class-api-client.php';
 require_once WFA_PLUGIN_DIR . 'includes/class-conflict-handler.php';

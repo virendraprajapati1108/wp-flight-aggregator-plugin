@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WP Flight Aggregator
 
 A simple WordPress plugin that aggregates flights from two external APIs, allows booking, and manages conflicts through an admin interface.
@@ -31,7 +30,3 @@ A simple WordPress plugin that aggregates flights from two external APIs, allows
 1. Upload the plugin to your WordPress site (/wp-content/plugins/wp-flight-aggregator/).
 2. Activate the plugin from the Plugins menu.
 3. Add the shortcode [flight_search] to any page to enable flight search and booking.
-=======
-# wp-flight-aggregator-plugin
-A basic WordPress plugin that fetches flights from two external dummy APIs (Mocki), allows visitors to book flights, detects simple booking conflicts (price mismatch >10% and duplicate bookings within 1 hour), and provides an admin UI for resolving conflicts.
->>>>>>> e1b742e0360836f18a736769f83e1d3cc3c3f54a
